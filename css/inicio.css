@@ -584,8 +584,8 @@ html
 	padding-top: 10px;
 	padding-bottom: 10px;
 	text-align: center;
-	line-height: 1;
 	color: #999999;
+	line-height: 1;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	background: #DEDEDE url("../images/0mosaicoamarillo.png") repeat left top;
@@ -721,8 +721,8 @@ html
 	padding-top: 10px;
 	padding-bottom: 10px;
 	text-align: center;
-	line-height: 1;
 	color: #999999;
+	line-height: 1;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	background: #DEDEDE url("../images/0mosaicoamarillo.png") repeat left top;
@@ -886,8 +886,8 @@ html
 	padding-top: 10px;
 	padding-bottom: 10px;
 	text-align: center;
-	line-height: 0.2;
 	color: #999999;
+	line-height: 0.2;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	background: #DEDEDE url("../images/0mosaicoamarillo.png") repeat left top;
@@ -926,8 +926,8 @@ html
 {
 	color: #4F4F4F;
 	visibility: inherit;
-	line-height: 0.2;
 	font-size: 20px;
+	line-height: 0.2;
 	padding-right: 0px;
 }
 
@@ -1204,8 +1204,8 @@ html
 	width: 112px;
 	min-height: 110px;
 	text-align: center;
-	line-height: 1.4;
 	color: #999999;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 329px;
 	left: 200px;
@@ -1222,8 +1222,8 @@ html
 	width: 116px;
 	min-height: 85px;
 	text-align: center;
-	line-height: 1.4;
 	color: #999999;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 345px;
 	left: 678px;
@@ -1446,8 +1446,8 @@ html
 	width: 101px;
 	min-height: 96px;
 	text-align: center;
-	line-height: 1.4;
 	color: #999999;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 369px;
 	left: 661px;

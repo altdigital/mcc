@@ -38,7 +38,7 @@ la vida" width="142" height="48"/><!-- rasterized frame -->
     <a class="nonblock nontext gradient grpelem" id="u968" href="7.html"><!-- simple frame --></a>
    </div>
    <div class="colelem" id="u6842"><!-- custom html -->
-    <meta name="viewport" content="user-scalable=no, width=980">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 </div>
    <div class="colelem" id="u6145"><!-- image -->
     <img class="block" id="u6145_img" src="images/bibliografia.png" alt="" width="595" height="842"/>
@@ -74,8 +74,8 @@ la vida" width="142" height="48"/><!-- rasterized frame -->
    $(document).ready(function() { try {
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks();/* body */
-$('html').registerBackgroundPositionScrollEffect({"speedX":0,"speedY":0.2});/* scroll effect */
-$('#u961').registerPositionScrollEffect({"exitSpeedY":0,"exitSpeedX":0,"enterSpeedY":1,"enterSpeedX":0,"offset":10});/* scroll effect */
+$('html').registerBackgroundPositionScrollEffect({"speedY":0.2,"speedX":0});/* scroll effect */
+$('#u961').registerPositionScrollEffect({"exitSpeedY":0,"enterSpeedY":1,"exitSpeedX":0,"offset":10,"enterSpeedX":0});/* scroll effect */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */

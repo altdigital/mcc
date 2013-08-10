@@ -6,24 +6,24 @@
     <file name="master_master.css" crc="3796771304" ref="biblio:info:4:1:5:inicio:7:2"/>
     <file name="comprar.css" crc="3951610094" ref="comprar"/>
     <file name="biblio.css" crc="4196621713" ref="biblio"/>
-    <file name="3.css" crc="3998151617" ref="3"/>
+    <file name="3.css" crc="289718607" ref="3"/>
     <file name="iefonts_3.css" crc="185566253" ref="3"/>
     <file name="index.css" crc="4214904356" ref="index"/>
     <file name="info.css" crc="472965400" ref="info"/>
     <file name="iefonts_info.css" crc="276901039" ref="info"/>
-    <file name="4.css" crc="252943171" ref="4"/>
+    <file name="4.css" crc="3930032842" ref="4"/>
     <file name="iefonts_4.css" crc="185566253" ref="4"/>
-    <file name="1.css" crc="3936985276" ref="1"/>
+    <file name="1.css" crc="44736901" ref="1"/>
     <file name="iefonts_1.css" crc="64762700" ref="1"/>
-    <file name="5.css" crc="4205787318" ref="5"/>
+    <file name="5.css" crc="4088163515" ref="5"/>
     <file name="iefonts_5.css" crc="260641708" ref="5"/>
-    <file name="inicio.css" crc="3860733433" ref="inicio"/>
+    <file name="inicio.css" crc="230235192" ref="inicio"/>
     <file name="iefonts_inicio.css" crc="328295234" ref="inicio"/>
-    <file name="6.css" crc="265828485" ref="6"/>
+    <file name="6.css" crc="263718454" ref="6"/>
     <file name="iefonts_6.css" crc="185566253" ref="6"/>
-    <file name="7.css" crc="344685920" ref="7"/>
+    <file name="7.css" crc="479342361" ref="7"/>
     <file name="iefonts_7.css" crc="3988304117" ref="7"/>
-    <file name="2.css" crc="91974011" ref="2"/>
+    <file name="2.css" crc="281834759" ref="2"/>
     <file name="iefonts_2.css" crc="3807568592" ref="2"/>
   </folder>
   <folder name="scripts">
@@ -258,16 +258,16 @@
     <file name="1c.png" crc="382071226" ref="comprar"/>
     <file name="1d.png" crc="171832831" ref="comprar"/>
   </folder>
-  <file name="index.html" crc="3990813841" mt="1375984966528"/>
-  <file name="1.html" crc="4013425277" mt="1375984983606"/>
-  <file name="2.html" crc="57296201" mt="1375984983607"/>
-  <file name="3.html" crc="4249908158" mt="1375984610487"/>
-  <file name="info.html" crc="427998994" mt="1375984983609"/>
-  <file name="inicio.html" crc="4258857745" mt="1375984983610"/>
-  <file name="4.html" crc="420073349" mt="1375984983612"/>
-  <file name="5.html" crc="402667068" mt="1375984983613"/>
-  <file name="6.html" crc="368423977" mt="1375984610489"/>
-  <file name="7.html" crc="3814305142" mt="1375984983615"/>
-  <file name="biblio.html" crc="50803756" mt="1375984983616"/>
-  <file name="comprar.html" crc="4180252898" mt="1375984966531"/>
+  <file name="index.html" crc="359534628" mt="1376167475352"/>
+  <file name="1.html" crc="36373930" mt="1376167496002"/>
+  <file name="2.html" crc="4087554503" mt="1376167496003"/>
+  <file name="3.html" crc="3925631282" mt="1376167512497"/>
+  <file name="info.html" crc="67045609" mt="1376167496005"/>
+  <file name="inicio.html" crc="113738495" mt="1376167496006"/>
+  <file name="4.html" crc="449742600" mt="1376167496007"/>
+  <file name="5.html" crc="3965649310" mt="1376167496008"/>
+  <file name="6.html" crc="22967900" mt="1376167512499"/>
+  <file name="7.html" crc="34412457" mt="1376167496010"/>
+  <file name="biblio.html" crc="3952586987" mt="1376167496011"/>
+  <file name="comprar.html" crc="454834163" mt="1376167475354"/>
 </manifest>
