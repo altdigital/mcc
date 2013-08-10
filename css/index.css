@@ -1,0 +1,117 @@
+html
+{
+	background: #7F7F7F url("../images/0mosaicoazul.png") repeat left top;
+}
+
+#page
+{
+	z-index: 1;
+	width: 978px;
+	min-height: 1200px;
+	border-style: none;
+	border-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+	background: #FFFFFF url("../images/0mosaicoamarillo.png") repeat left top;
+}
+
+#u477
+{
+	z-index: 2;
+	width: 978px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u504
+{
+	z-index: 4;
+	width: 540px;
+	height: 383px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 177px;
+	left: 403px;
+}
+
+.ie #u504
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u3877
+{
+	z-index: 5;
+	width: 66px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 635px;
+	left: 862px;
+}
+
+#u3882
+{
+	z-index: 7;
+	width: 226px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1464px;
+	left: 752px;
+}
+
+#u3853
+{
+	z-index: 8;
+	width: 226px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u3853_clip
+{
+	overflow: hidden;
+	width: 226px;
+	height: 152px;
+}
+
+#u3853_img
+{
+	margin-right: -1056px;
+}
+
+#u3874
+{
+	z-index: 10;
+	width: 85px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 26px;
+	left: 63px;
+}
+
+#portada_bajar
+{
+	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+	margin-top: 1129px;
+	left: 50px;
+}
+
+#u6848
+{
+	z-index: 13;
+	width: 200px;
+	margin-right: -10000px;
+	margin-top: 90px;
+	left: 50px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
