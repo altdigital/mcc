@@ -6,7 +6,7 @@ html
 #page
 {
 	z-index: 1;
-	width: 978px;
+	width: 800px;
 	min-height: 1200px;
 	border-style: none;
 	border-color: transparent;
@@ -17,30 +17,30 @@ html
 
 #u845
 {
-	z-index: 265;
-	width: 978px;
+	z-index: 270;
+	width: 800px;
 	position: relative;
 }
 
 #u450
 {
-	z-index: 266;
-	width: 978px;
+	z-index: 271;
+	width: 800px;
 	position: relative;
 	margin-right: -10000px;
 }
 
 #u451
 {
-	z-index: 267;
-	width: 978px;
+	z-index: 272;
+	width: 800px;
 	-pie-box-shadow: 0px 8px 10px #999999;
 	-moz-box-shadow: 0px 8px 10px rgba(0, 0, 0, 0.4);
 	-webkit-box-shadow: 0px 8px 10px -1px rgba(0, 0, 0, 0.4);
 	box-shadow: 0px 8px 10px rgba(0, 0, 0, 0.4);
 	border-style: none;
 	border-color: transparent;
-	padding-bottom: 18px;
+	padding-bottom: 23px;
 	position: relative;
 	margin-right: -10000px;
 	background: #FFAA28 url("../images/0mosaicoamarillo.png") repeat-x left top;
@@ -48,48 +48,48 @@ html
 
 #u453-4
 {
-	z-index: 272;
+	z-index: 277;
 	position: relative;
-	width: 154px;
+	width: 110px;
 	margin-right: -10000px;
-	margin-top: 40px;
-	left: 52px;
+	margin-top: 41px;
+	left: 63px;
 }
 
 #u452-4
 {
-	z-index: 268;
+	z-index: 273;
 	position: relative;
-	width: 182px;
+	width: 128px;
 	margin-right: -10000px;
-	margin-top: 40px;
-	left: 271px;
+	margin-top: 41px;
+	left: 239px;
 }
 
 #u6122-4
 {
-	z-index: 280;
+	z-index: 285;
 	position: relative;
-	width: 127px;
+	width: 91px;
 	margin-right: -10000px;
-	margin-top: 40px;
-	left: 539px;
+	margin-top: 41px;
+	left: 447px;
 }
 
 #u454-4
 {
-	z-index: 276;
+	z-index: 281;
 	position: relative;
-	width: 184px;
+	width: 132px;
 	margin-right: -10000px;
-	margin-top: 40px;
-	left: 744px;
+	margin-top: 41px;
+	left: 608px;
 }
 
 #u835
 {
-	z-index: 284;
-	width: 978px;
+	z-index: 289;
+	width: 800px;
 	height: 10px;
 	border-style: none;
 	border-color: transparent;
@@ -101,8 +101,8 @@ html
 
 #u846
 {
-	z-index: 246;
-	width: 978px;
+	z-index: 251;
+	width: 799px;
 	position: fixed;
 	top: 90px;
 	left: 0px;
@@ -110,15 +110,15 @@ html
 
 #u463
 {
-	z-index: 247;
-	width: 978px;
+	z-index: 252;
+	width: 799px;
 	-pie-box-shadow: none;
 	-moz-box-shadow: 0px 8px 10px rgba(0, 0, 0, 0.4);
 	-webkit-box-shadow: 0px 8px 10px -1px rgba(0, 0, 0, 0.4);
 	box-shadow: 0px 8px 10px rgba(0, 0, 0, 0.4);
 	border-style: none;
 	border-color: transparent;
-	padding-bottom: 20px;
+	padding-bottom: 28px;
 	position: relative;
 	margin-right: -10000px;
 	background: transparent url("../images/0mosaicoazul.png") repeat-x right bottom;
@@ -126,48 +126,48 @@ html
 
 #u462-4
 {
-	z-index: 248;
+	z-index: 253;
 	position: relative;
-	width: 159px;
+	width: 96px;
 	margin-right: -10000px;
-	margin-top: 32px;
-	left: 52px;
-}
-
-#u471-4
-{
-	z-index: 252;
-	position: relative;
-	width: 200px;
-	margin-right: -10000px;
-	margin-top: 29px;
-	left: 269px;
+	margin-top: 30px;
+	left: 59px;
 }
 
 #u473-4
 {
-	z-index: 256;
+	z-index: 261;
 	position: relative;
-	width: 165px;
+	width: 98px;
 	margin-right: -10000px;
-	margin-top: 32px;
-	left: 528px;
+	margin-top: 30px;
+	left: 449px;
 }
 
 #u475-4
 {
-	z-index: 260;
+	z-index: 265;
 	position: relative;
-	width: 142px;
+	width: 88px;
 	margin-right: -10000px;
-	margin-top: 32px;
-	left: 785px;
+	margin-top: 30px;
+	left: 657px;
+}
+
+#u471-4
+{
+	z-index: 257;
+	position: relative;
+	width: 119px;
+	margin-right: -10000px;
+	margin-top: 30px;
+	left: 235px;
 }
 
 #u840
 {
-	z-index: 264;
-	width: 978px;
+	z-index: 269;
+	width: 799px;
 	height: 10px;
 	border-style: none;
 	border-color: transparent;
@@ -179,7 +179,7 @@ html
 
 #u6842
 {
-	z-index: 245;
+	z-index: 250;
 	width: 200px;
 	margin-left: 320px;
 }
@@ -201,7 +201,7 @@ html
 #u560
 {
 	z-index: 110;
-	width: 830px;
+	width: 796px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 115px;
@@ -210,20 +210,20 @@ html
 #u560_clip
 {
 	overflow: hidden;
-	width: 830px;
-	height: 779px;
+	width: 796px;
+	height: 747px;
 }
 
 #u560_img
 {
-	margin-top: -318px;
+	margin-top: -305px;
 }
 
 #u231-3
 {
 	z-index: 116;
-	width: 549px;
-	min-height: 79px;
+	width: 513px;
+	min-height: 80px;
 	text-align: center;
 	font-size: 24px;
 	font-weight: bold;
@@ -236,84 +236,84 @@ html
 #u230-3
 {
 	z-index: 119;
-	width: 549px;
-	min-height: 79px;
+	width: 513px;
+	min-height: 80px;
 	text-align: center;
 	font-size: 24px;
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 453px;
+	margin-top: 457px;
 	left: 3px;
 }
 
 #u224-3
 {
 	z-index: 122;
-	width: 549px;
-	min-height: 79px;
+	width: 513px;
+	min-height: 80px;
 	text-align: center;
 	font-size: 24px;
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 239px;
+	margin-top: 240px;
 	left: 3px;
 }
 
 #u229-3
 {
 	z-index: 125;
-	width: 549px;
-	min-height: 79px;
+	width: 513px;
+	min-height: 80px;
 	text-align: center;
 	font-size: 24px;
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 560px;
+	margin-top: 564px;
 	left: 2px;
 }
 
 #u225-3
 {
 	z-index: 128;
-	width: 549px;
-	min-height: 79px;
+	width: 513px;
+	min-height: 80px;
 	text-align: center;
 	font-size: 24px;
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 345px;
+	margin-top: 348px;
 	left: 3px;
 }
 
 #u226-3
 {
 	z-index: 131;
-	width: 549px;
-	min-height: 79px;
+	width: 513px;
+	min-height: 80px;
 	text-align: center;
 	font-size: 24px;
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 663px;
+	margin-top: 669px;
 	left: 2px;
 }
 
 #u572-3
 {
 	z-index: 134;
-	width: 549px;
-	min-height: 79px;
+	width: 513px;
+	min-height: 80px;
 	text-align: center;
 	font-size: 24px;
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 768px;
+	margin-top: 775px;
 	left: 2px;
 }
 
@@ -325,24 +325,11 @@ html
 #u565
 {
 	z-index: 137;
-	width: 587px;
+	width: 409px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 85px;
 	left: 391px;
-}
-
-#u565_clip
-{
-	overflow: hidden;
-	width: 587px;
-	height: 770px;
-}
-
-#u565_img
-{
-	margin-right: -100px;
-	margin-bottom: -202px;
 }
 
 #u570-4
@@ -351,35 +338,35 @@ html
 	display: block;
 	vertical-align: top;
 	position: relative;
-	width: 316px;
+	width: 247px;
 	margin-right: -10000px;
-	margin-top: 30px;
-	left: 52px;
+	margin-top: 29px;
+	left: 51px;
 }
 
 #presentacin
 {
 	margin-left: 50px;
-	margin-top: 15px;
+	margin-top: 47px;
 	position: relative;
 }
 
 #u575-4
 {
 	z-index: 143;
-	margin-left: 53px;
-	margin-top: 58px;
+	margin-left: 50px;
+	margin-top: 60px;
 	position: relative;
 }
 
 #u665
 {
-	z-index: 166;
-	width: 978px;
+	z-index: 170;
+	width: 800px;
 	height: 10px;
 	border-style: none;
 	border-color: transparent;
-	margin-top: 18px;
+	margin-top: 19px;
 	position: relative;
 	background: transparent url("../images/hilo_azul.png") repeat-x left top;
 }
@@ -394,7 +381,7 @@ html
 #u577
 {
 	z-index: 104;
-	width: 898px;
+	width: 731px;
 	-pie-box-shadow: none;
 	-moz-box-shadow: 0px 8px 10px rgba(0, 0, 0, 0.4);
 	-webkit-box-shadow: 0px 8px 10px -1px rgba(0, 0, 0, 0.4);
@@ -403,30 +390,35 @@ html
 	border-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	padding: 58px 30px 23px 50px;
+	padding: 58px 19px 23px 50px;
 	background: transparent url("../images/0mosaicoazul.png") repeat right bottom;
 }
 
-#pu581-15
+#pu581-19
 {
 	width: 0.01px;
 	margin-left: 41px;
 	position: relative;
 }
 
-#u581-15
+#u581-19
 {
 	z-index: 151;
-	width: 760px;
-	min-height: 2397px;
+	width: 645px;
+	min-height: 2073px;
 	position: relative;
 	margin-right: -10000px;
 }
 
-#u581-2
+#u581-6
 {
-	font-size: 31px;
+	font-size: 30px;
 	font-weight: 700;
+}
+
+#u581-8,#u581-10,#u581-12,#u581-14,#u581-16
+{
+	font-size: 25px;
 }
 
 #pu672
@@ -435,20 +427,20 @@ html
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 506px;
-	left: 813px;
+	left: 653px;
 }
 
 #u672
 {
-	z-index: 167;
+	z-index: 171;
 	width: 35px;
-	margin-left: 9px;
+	margin-left: 2px;
 	position: relative;
 }
 
 #u677
 {
-	z-index: 169;
+	z-index: 173;
 	width: 35px;
 	margin-top: 833px;
 	position: relative;
@@ -456,128 +448,49 @@ html
 
 #personajes
 {
-	margin-top: 26px;
+	margin-top: 29px;
 	position: relative;
 }
 
 #u586-4
 {
 	z-index: 147;
-	margin-left: 3px;
-	margin-top: 65px;
+	margin-top: 63px;
 	position: relative;
 }
 
 #u680
 {
-	z-index: 171;
-	width: 978px;
+	z-index: 175;
+	width: 800px;
 	height: 10px;
 	border-style: none;
 	border-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 2778px;
+	margin-top: 2319px;
 	background: transparent url("../images/hilo_amarillo.png") repeat-x left top;
-}
-
-#pu4172
-{
-	width: 0.01px;
-	position: relative;
-}
-
-#u4172
-{
-	z-index: 2;
-	width: 978px;
-	-pie-box-shadow: 0px 8px 10px #999999;
-	-moz-box-shadow: 0px 8px 10px rgba(0, 0, 0, 0.4);
-	-webkit-box-shadow: 0px 8px 10px -1px rgba(0, 0, 0, 0.4);
-	box-shadow: 0px 8px 10px rgba(0, 0, 0, 0.4);
-	border-style: none;
-	border-color: transparent;
-	padding-bottom: 0px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 447px;
-	background: #14144A url("../images/0mosaicoazul.png") repeat right center;
-}
-
-#u4172_position_content
-{
-	margin-top: 145px;
-	margin-bottom: 2px;
-}
-
-#u3980-4
-{
-	z-index: 3;
-	width: 373px;
-	min-height: 240px;
-	margin-left: 302px;
-	position: relative;
-}
-
-#u3980-2
-{
-	font-size: 43px;
-}
-
-#objetivos
-{
-	margin-left: 50px;
-	margin-top: 241px;
-	position: relative;
-}
-
-#u4177
-{
-	z-index: 172;
-	width: 978px;
-	height: 10px;
-	border-style: none;
-	border-color: transparent;
-	margin-top: 19px;
-	position: relative;
-	background: transparent url("../images/hilo_amarillo.png") repeat-x left top;
-}
-
-#u4166
-{
-	z-index: 7;
-	width: 35px;
-	-webkit-transform: rotate(180deg);
-	-moz-transform: rotate(180deg);
-	-ms-transform: rotate(180deg);
-	-o-transform: rotate(180deg);
-	transform: rotate(180deg);
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 534px;
-	left: 471px;
 }
 
 #accordionu3892
 {
 	z-index: 21;
-	width: 978px;
+	width: 800px;
 	position: relative;
-	margin-right: -10000px;
 }
 
 #u3927
 {
 	z-index: 22;
-	width: 978px;
+	width: 800px;
 	position: relative;
 }
 
 #u3934-8
 {
 	z-index: 23;
-	width: 968px;
-	min-height: 137px;
+	width: 790px;
+	min-height: 130px;
 	border-style: none;
 	border-color: transparent;
 	padding-left: 10px;
@@ -586,8 +499,7 @@ html
 	text-align: center;
 	color: #999999;
 	line-height: 1;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	position: relative;
+	font-family: ubuntu, sans-serif;position: relative;
 	background: #DEDEDE url("../images/0mosaicoamarillo.png") repeat left top;
 }
 
@@ -595,7 +507,7 @@ html
 {
 	padding-top: 10px;
 	padding-bottom: 10px;
-	min-height: 137px;
+	min-height: 130px;
 	margin: 0px;
 	background: #F2F2F2 url("../images/0mosaicoamarillo.png") repeat left top;
 }
@@ -604,20 +516,9 @@ html
 {
 	padding-top: 10px;
 	padding-bottom: 10px;
-	min-height: 137px;
+	min-height: 130px;
 	margin: 0px;
 	background: #F2F2F2 url("../images/0mosaicoamarillo.png") repeat left top;
-}
-
-#u3934-8.AccordionPanelTabOpen
-{
-	border-style: none;
-	border-color: transparent;
-	padding-top: 10px;
-	padding-bottom: 10px;
-	min-height: 137px;
-	margin: 0px;
-	background: #FFFFFF url("../images/0mosaicoamarillo.png") repeat left top;
 }
 
 #u4115
@@ -629,13 +530,13 @@ html
 #u3936
 {
 	z-index: 34;
-	width: 800px;
+	width: 693px;
 }
 
 #u3928
 {
 	z-index: 37;
-	width: 978px;
+	width: 800px;
 	-pie-box-shadow: 0px 8px 10px #999999;
 	-moz-box-shadow: 0px 8px 10px rgba(0, 0, 0, 0.4);
 	-webkit-box-shadow: 0px 8px 10px -1px rgba(0, 0, 0, 0.4);
@@ -651,7 +552,7 @@ html
 #u3930
 {
 	z-index: 48;
-	width: 978px;
+	width: 800px;
 	height: 10px;
 	border-style: none;
 	border-color: transparent;
@@ -663,15 +564,15 @@ html
 {
 	width: 0.01px;
 	margin-left: 50px;
-	margin-top: 60px;
+	margin-top: 62px;
 	position: relative;
 }
 
 #u3929-8
 {
 	z-index: 38;
-	width: 517px;
-	min-height: 105px;
+	width: 341px;
+	min-height: 518px;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -679,26 +580,21 @@ html
 #u3931
 {
 	z-index: 46;
-	width: 373px;
+	width: 325px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 20px;
-	left: 531px;
-}
-
-#u3931_img
-{
-	padding-bottom: 1px;
+	margin-top: 50px;
+	left: 387px;
 }
 
 #u3933
 {
 	z-index: 49;
-	width: 978px;
+	width: 800px;
 	height: 10px;
 	border-style: none;
 	border-color: transparent;
-	margin-top: 70px;
+	margin-top: 49px;
 	position: relative;
 	background: transparent url("../images/hilo_amarillo.png") repeat-x left top;
 }
@@ -706,15 +602,15 @@ html
 #u3893
 {
 	z-index: 50;
-	width: 978px;
+	width: 800px;
 	position: relative;
 }
 
 #u3900-8
 {
 	z-index: 51;
-	width: 968px;
-	min-height: 141px;
+	width: 790px;
+	min-height: 135px;
 	border-style: none;
 	border-color: transparent;
 	padding-left: 10px;
@@ -723,8 +619,7 @@ html
 	text-align: center;
 	color: #999999;
 	line-height: 1;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	position: relative;
+	font-family: ubuntu, sans-serif;position: relative;
 	background: #DEDEDE url("../images/0mosaicoamarillo.png") repeat left top;
 }
 
@@ -732,7 +627,7 @@ html
 {
 	padding-top: 10px;
 	padding-bottom: 10px;
-	min-height: 141px;
+	min-height: 135px;
 	margin: 0px;
 	background: #F2F2F2 url("../images/0mosaicoamarillo.png") repeat left top;
 }
@@ -741,7 +636,7 @@ html
 {
 	padding-top: 10px;
 	padding-bottom: 10px;
-	min-height: 141px;
+	min-height: 135px;
 	margin: 0px;
 	background: #F2F2F2 url("../images/0mosaicoamarillo.png") repeat left top;
 }
@@ -752,7 +647,7 @@ html
 	border-color: transparent;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	min-height: 141px;
+	min-height: 135px;
 	margin: 0px;
 	background: #FFFFFF url("../images/0mosaicoamarillo.png") repeat left top;
 }
@@ -773,12 +668,12 @@ html
 #u3902
 {
 	z-index: 62;
-	width: 730px;
+	width: 637px;
 }
 
 #u3902_img
 {
-	padding-right: 8px;
+	padding-right: 7px;
 	vertical-align: bottom;
 }
 
@@ -793,7 +688,7 @@ html
 #u3894
 {
 	z-index: 65;
-	width: 978px;
+	width: 800px;
 	-pie-box-shadow: 0px 8px 10px #999999;
 	-moz-box-shadow: 0px 8px 10px rgba(0, 0, 0, 0.4);
 	-webkit-box-shadow: 0px 8px 10px -1px rgba(0, 0, 0, 0.4);
@@ -809,7 +704,7 @@ html
 #u3899
 {
 	z-index: 77;
-	width: 978px;
+	width: 800px;
 	height: 10px;
 	border-style: none;
 	border-color: transparent;
@@ -828,8 +723,8 @@ html
 #u3897-9
 {
 	z-index: 66;
-	width: 477px;
-	min-height: 105px;
+	width: 333px;
+	min-height: 538px;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -837,33 +732,33 @@ html
 #u3895
 {
 	z-index: 75;
-	width: 508px;
+	width: 443px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 11px;
-	left: 419px;
+	margin-top: 26px;
+	left: 285px;
 }
 
 #u3895_clip
 {
 	overflow: hidden;
-	width: 508px;
-	height: 569px;
+	width: 443px;
+	height: 503px;
 }
 
 #u3895_img
 {
-	margin-right: -61px;
+	margin-right: -60px;
 }
 
 #u3898
 {
 	z-index: 78;
-	width: 978px;
+	width: 800px;
 	height: 10px;
 	border-style: none;
 	border-color: transparent;
-	margin-top: 30px;
+	margin-top: 67px;
 	position: relative;
 	background: transparent url("../images/hilo_amarillo.png") repeat-x left top;
 }
@@ -871,15 +766,15 @@ html
 #u3916
 {
 	z-index: 79;
-	width: 978px;
+	width: 800px;
 	position: relative;
 }
 
 #u3917-8
 {
 	z-index: 80;
-	width: 968px;
-	min-height: 134px;
+	width: 790px;
+	min-height: 130px;
 	border-style: none;
 	border-color: transparent;
 	padding-left: 10px;
@@ -888,8 +783,7 @@ html
 	text-align: center;
 	color: #999999;
 	line-height: 0.2;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	position: relative;
+	font-family: ubuntu, sans-serif;position: relative;
 	background: #DEDEDE url("../images/0mosaicoamarillo.png") repeat left top;
 }
 
@@ -897,7 +791,7 @@ html
 {
 	padding-top: 10px;
 	padding-bottom: 10px;
-	min-height: 134px;
+	min-height: 130px;
 	margin: 0px;
 	background: #F2F2F2 url("../images/0mosaicoamarillo.png") repeat left top;
 }
@@ -906,18 +800,18 @@ html
 {
 	padding-top: 10px;
 	padding-bottom: 10px;
-	min-height: 134px;
+	min-height: 130px;
 	margin: 0px;
 	background: #F2F2F2 url("../images/0mosaicoamarillo.png") repeat left top;
 }
 
-#u3917-8.AccordionPanelTabOpen
+#u3934-8.AccordionPanelTabOpen,#u3917-8.AccordionPanelTabOpen
 {
 	border-style: none;
 	border-color: transparent;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	min-height: 134px;
+	min-height: 130px;
 	margin: 0px;
 	background: #FFFFFF url("../images/0mosaicoamarillo.png") repeat left top;
 }
@@ -926,9 +820,9 @@ html
 {
 	color: #4F4F4F;
 	visibility: inherit;
-	font-size: 20px;
 	line-height: 0.2;
 	padding-right: 0px;
+	font-size: 20px;
 }
 
 #u4150
@@ -953,7 +847,7 @@ html
 #u3919
 {
 	z-index: 91;
-	width: 654px;
+	width: 568px;
 }
 
 #u3919_img
@@ -973,7 +867,7 @@ html
 #u3921
 {
 	z-index: 94;
-	width: 978px;
+	width: 800px;
 	-pie-box-shadow: 0px 8px 10px #999999;
 	-moz-box-shadow: 0px 8px 10px rgba(0, 0, 0, 0.4);
 	-webkit-box-shadow: 0px 8px 10px -1px rgba(0, 0, 0, 0.4);
@@ -989,7 +883,7 @@ html
 #u3926
 {
 	z-index: 103;
-	width: 978px;
+	width: 800px;
 	height: 10px;
 	border-style: none;
 	border-color: transparent;
@@ -1008,111 +902,183 @@ html
 #u3923-5
 {
 	z-index: 95;
-	width: 435px;
-	min-height: 105px;
+	width: 350px;
+	min-height: 545px;
 	position: relative;
 	margin-right: -10000px;
-}
-
-#u3929-2,#u3929-4,#u3929-6,#u3897-2,#u3897-4,#u3897-6,#u3923-2
-{
-	text-align: left;
 }
 
 #u3897-7,#u3923-3
 {
 	line-height: 1.4;
 	color: #999999;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-}
+	font-family: ubuntu, sans-serif;}
 
 #u3924
 {
 	z-index: 100;
-	width: 449px;
+	width: 406px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 32px;
-	left: 462px;
+	margin-top: 65px;
+	left: 317px;
 }
 
 #u3924_clip
 {
 	overflow: hidden;
-	width: 449px;
-	height: 500px;
+	width: 406px;
+	height: 452px;
 }
 
 #u3924_img
 {
-	margin-right: -51px;
+	margin-right: -46px;
 }
 
 #u3922
 {
 	z-index: 102;
-	width: 978px;
+	width: 800px;
 	height: 10px;
 	border-style: none;
 	border-color: transparent;
-	margin-top: 17px;
+	margin-top: 63px;
 	position: relative;
 	background: transparent url("../images/hilo_amarillo.png") repeat-x left top;
+}
+
+#pu4172
+{
+	width: 0.01px;
+	top: -8px;
+	margin-bottom: -8px;
+	position: relative;
+}
+
+#u4172
+{
+	z-index: 2;
+	width: 800px;
+	-pie-box-shadow: 0px 8px 10px #999999;
+	-moz-box-shadow: 0px 8px 10px rgba(0, 0, 0, 0.4);
+	-webkit-box-shadow: 0px 8px 10px -1px rgba(0, 0, 0, 0.4);
+	box-shadow: 0px 8px 10px rgba(0, 0, 0, 0.4);
+	border-style: none;
+	border-color: transparent;
+	padding-bottom: 0px;
+	position: relative;
+	margin-right: -10000px;
+	background: #14144A url("../images/0mosaicoazul.png") repeat right center;
+}
+
+#u4172_position_content
+{
+	margin-top: 145px;
+	margin-bottom: 6px;
+}
+
+#u3980-4
+{
+	z-index: 3;
+	width: 373px;
+	min-height: 240px;
+	margin-left: 213px;
+	position: relative;
+}
+
+#u3980-2
+{
+	font-size: 43px;
+	text-align: center;
+}
+
+#objetivos
+{
+	margin-left: 50px;
+	margin-top: 241px;
+	position: relative;
+}
+
+#u4177
+{
+	z-index: 176;
+	width: 800px;
+	height: 10px;
+	border-style: none;
+	border-color: transparent;
+	margin-top: 15px;
+	position: relative;
+	background: transparent url("../images/hilo_amarillo.png") repeat-x left top;
+}
+
+#u4166
+{
+	z-index: 7;
+	width: 35px;
+	-webkit-transform: rotate(180deg);
+	-moz-transform: rotate(180deg);
+	-ms-transform: rotate(180deg);
+	-o-transform: rotate(180deg);
+	transform: rotate(180deg);
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 87px;
+	left: 382px;
 }
 
 #u1281-4
 {
 	z-index: 105;
-	margin-left: 52px;
-	margin-top: 39px;
+	margin-left: 51px;
+	margin-top: 38px;
 	position: relative;
 }
 
-#u453-4_img,#u452-4_img,#u6122-4_img,#u454-4_img,#u462-4_img,#u471-4_img,#u473-4_img,#u475-4_img,#u575-4_img,#u586-4_img,#u1281-4_img
+#u453-4_img,#u452-4_img,#u6122-4_img,#u454-4_img,#u462-4_img,#u473-4_img,#u475-4_img,#u471-4_img,#u575-4_img,#u586-4_img,#u1281-4_img
 {
 	display: block;
 	vertical-align: top;
 }
 
+#pu1282
+{
+	width: 0.01px;
+	margin-top: 9px;
+	position: relative;
+}
+
 #u1282
 {
 	z-index: 109;
-	width: 978px;
+	width: 800px;
 	height: 10px;
 	border-style: none;
 	border-color: transparent;
-	margin-top: 5px;
 	position: relative;
+	margin-right: -10000px;
 	background: transparent url("../images/hilo_azul.png") repeat-x left top;
 }
 
 #slideshowu6686
 {
-	z-index: 223;
+	z-index: 226;
 	width: 0.01px;
-	height: 439px;
-	top: -5px;
-	margin-bottom: -5px;
+	height: 408px;
 	position: relative;
-}
-
-#u6708
-{
-	position: absolute;
-	width: 928px;
-	height: 360px;
-	background-color: transparent;
+	margin-right: -10000px;
+	margin-top: 1px;
 }
 
 #u6708popup
 {
-	z-index: 224;
+	z-index: 227;
 }
 
 #u6709
 {
-	z-index: 225;
-	width: 928px;
+	z-index: 228;
+	width: 800px;
 	height: 360px;
 	border-style: none;
 	border-color: transparent;
@@ -1123,8 +1089,8 @@ html
 
 #u6736
 {
-	z-index: 227;
-	width: 928px;
+	z-index: 230;
+	width: 800px;
 	height: 360px;
 	border-style: none;
 	border-color: transparent;
@@ -1135,8 +1101,8 @@ html
 
 #u6750
 {
-	z-index: 229;
-	width: 928px;
+	z-index: 232;
+	width: 800px;
 	height: 360px;
 	border-style: none;
 	border-color: transparent;
@@ -1147,8 +1113,8 @@ html
 
 #u6764
 {
-	z-index: 231;
-	width: 928px;
+	z-index: 234;
+	width: 800px;
 	height: 360px;
 	border-style: none;
 	border-color: transparent;
@@ -1159,8 +1125,8 @@ html
 
 #u6778
 {
-	z-index: 233;
-	width: 928px;
+	z-index: 236;
+	width: 800px;
 	height: 360px;
 	border-style: none;
 	border-color: transparent;
@@ -1171,8 +1137,8 @@ html
 
 #u6792
 {
-	z-index: 235;
-	width: 928px;
+	z-index: 238;
+	width: 800px;
 	height: 360px;
 	border-style: none;
 	border-color: transparent;
@@ -1183,8 +1149,8 @@ html
 
 #u6806
 {
-	z-index: 237;
-	width: 928px;
+	z-index: 240;
+	width: 800px;
 	height: 360px;
 	border-style: none;
 	border-color: transparent;
@@ -1195,7 +1161,8 @@ html
 
 #u6709_img,#u6736_img,#u6750_img,#u6764_img,#u6778_img,#u6792_img,#u6806_img
 {
-	padding: 30px 64px;
+	padding-top: 30px;
+	padding-bottom: 30px;
 }
 
 #u6707-3
@@ -1206,14 +1173,13 @@ html
 	text-align: center;
 	color: #999999;
 	line-height: 1.4;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	top: 329px;
-	left: 200px;
+	font-family: ubuntu, sans-serif;top: 298px;
+	left: 80px;
 }
 
 #u6707-3popup
 {
-	z-index: 239;
+	z-index: 242;
 }
 
 #u6714-3
@@ -1224,14 +1190,13 @@ html
 	text-align: center;
 	color: #999999;
 	line-height: 1.4;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	top: 345px;
-	left: 678px;
+	font-family: ubuntu, sans-serif;top: 314px;
+	left: 558px;
 }
 
 #u6714-3popup
 {
-	z-index: 242;
+	z-index: 245;
 }
 
 .AccordionPanelTab,.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* accordion */
@@ -1247,38 +1212,38 @@ html
 #pslideshowu1038
 {
 	width: 0.01px;
-	top: -108px;
-	margin-bottom: -108px;
+	top: -101px;
+	margin-bottom: -101px;
 	position: relative;
 }
 
 #slideshowu1038
 {
-	z-index: 175;
+	z-index: 178;
 	width: 0.01px;
 	height: 465px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 541px;
+	margin-top: 455px;
 }
 
-#u1100
+#u6708,#u1100
 {
 	position: absolute;
-	width: 978px;
+	width: 800px;
 	height: 360px;
 	background-color: transparent;
 }
 
 #u1100popup
 {
-	z-index: 176;
+	z-index: 179;
 }
 
 #u1107
 {
-	z-index: 177;
-	width: 978px;
+	z-index: 180;
+	width: 800px;
 	height: 360px;
 	border-style: none;
 	border-color: transparent;
@@ -1289,8 +1254,8 @@ html
 
 #u1101
 {
-	z-index: 179;
-	width: 978px;
+	z-index: 182;
+	width: 800px;
 	height: 360px;
 	border-style: none;
 	border-color: transparent;
@@ -1301,8 +1266,8 @@ html
 
 #u1113
 {
-	z-index: 181;
-	width: 978px;
+	z-index: 184;
+	width: 800px;
 	height: 360px;
 	border-style: none;
 	border-color: transparent;
@@ -1313,8 +1278,8 @@ html
 
 #u1105
 {
-	z-index: 183;
-	width: 978px;
+	z-index: 186;
+	width: 800px;
 	height: 360px;
 	border-style: none;
 	border-color: transparent;
@@ -1325,8 +1290,8 @@ html
 
 #u1117
 {
-	z-index: 185;
-	width: 978px;
+	z-index: 188;
+	width: 800px;
 	height: 360px;
 	border-style: none;
 	border-color: transparent;
@@ -1337,8 +1302,8 @@ html
 
 #u1115
 {
-	z-index: 187;
-	width: 978px;
+	z-index: 190;
+	width: 800px;
 	height: 360px;
 	border-style: none;
 	border-color: transparent;
@@ -1349,8 +1314,8 @@ html
 
 #u1103
 {
-	z-index: 189;
-	width: 978px;
+	z-index: 192;
+	width: 800px;
 	height: 360px;
 	border-style: none;
 	border-color: transparent;
@@ -1361,8 +1326,8 @@ html
 
 #u1119
 {
-	z-index: 191;
-	width: 978px;
+	z-index: 194;
+	width: 800px;
 	height: 360px;
 	border-style: none;
 	border-color: transparent;
@@ -1373,8 +1338,8 @@ html
 
 #u1109
 {
-	z-index: 193;
-	width: 978px;
+	z-index: 196;
+	width: 800px;
 	height: 360px;
 	border-style: none;
 	border-color: transparent;
@@ -1385,8 +1350,8 @@ html
 
 #u1111
 {
-	z-index: 195;
-	width: 978px;
+	z-index: 198;
+	width: 800px;
 	height: 360px;
 	border-style: none;
 	border-color: transparent;
@@ -1397,7 +1362,7 @@ html
 
 #u1107_img,#u1101_img,#u1113_img,#u1105_img,#u1117_img,#u1115_img,#u1103_img,#u1119_img,#u1109_img,#u1111_img
 {
-	padding: 39px 135px;
+	padding: 39px 46px;
 }
 
 #u1082-6
@@ -1407,14 +1372,13 @@ html
 	min-height: 95px;
 	text-align: center;
 	line-height: 1.4;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	top: 370px;
-	left: 210px;
+	font-family: ubuntu, sans-serif;top: 370px;
+	left: 140px;
 }
 
 #u1082-6popup
 {
-	z-index: 197;
+	z-index: 200;
 }
 
 #u1083
@@ -1425,7 +1389,7 @@ html
 
 #u1084
 {
-	z-index: 203;
+	z-index: 206;
 	width: 113px;
 }
 
@@ -1448,14 +1412,13 @@ html
 	text-align: center;
 	color: #999999;
 	line-height: 1.4;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	top: 369px;
-	left: 661px;
+	font-family: ubuntu, sans-serif;top: 369px;
+	left: 571px;
 }
 
 #u1056-6popup
 {
-	z-index: 206;
+	z-index: 209;
 }
 
 #u3934,#u3900,#u3917,#u1082,#u1056
@@ -1472,7 +1435,7 @@ html
 
 #u1058
 {
-	z-index: 212;
+	z-index: 215;
 	width: 113px;
 }
 
@@ -1483,7 +1446,7 @@ html
 
 #u1287
 {
-	z-index: 215;
+	z-index: 218;
 	width: 23px;
 	height: 641px;
 	border-color: #000000;
@@ -1493,27 +1456,26 @@ html
 	filter: alpha(opacity=10);
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 24px;
 	left: 50px;
 }
 
 #u6816
 {
-	z-index: 216;
+	z-index: 219;
 	width: 113px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 9px;
-	left: 681px;
+	left: 575px;
 }
 
 #u6821
 {
-	z-index: 218;
+	z-index: 221;
 	width: 113px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 9px;
-	left: 200px;
+	left: 94px;
 }
 
 #u6821_img
@@ -1523,55 +1485,64 @@ html
 
 #u6822
 {
-	z-index: 220;
+	z-index: 223;
 	width: 538px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 349px;
+	margin-top: 263px;
 }
 
 #u6827
 {
-	z-index: 222;
-	width: 978px;
+	z-index: 225;
+	width: 800px;
 	height: 44px;
 	border-style: none;
 	border-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 233px;
+	margin-top: 197px;
 	background: transparent url("../images/hilo_azul.png") repeat-x left top;
+}
+
+#u6561
+{
+	z-index: 177;
+	width: 130px;
+	height: 128px;
+	top: -498px;
+	margin-bottom: -128px;
+	position: relative;
 }
 
 #pu722
 {
 	width: 0.01px;
-	top: -39px;
-	margin-bottom: -39px;
+	top: -1px;
+	margin-bottom: -1px;
 	position: relative;
 }
 
 #u722
 {
 	z-index: 9;
-	width: 978px;
+	width: 800px;
 	padding-top: 5px;
 	padding-bottom: 33px;
 	margin-right: -10000px;
-	margin-top: 38px;
 }
 
 #u730
 {
 	z-index: 10;
-	width: 978px;
+	width: 800px;
 	height: 10px;
 }
 
 #u4237-6
 {
 	z-index: 15;
-	margin-left: 324px;
+	margin-left: 273px;
 	margin-top: 12px;
 }
 
@@ -1580,8 +1551,8 @@ html
 	z-index: 11;
 	width: 60px;
 	margin-right: -10000px;
-	margin-top: 46px;
-	left: 868px;
+	margin-top: 8px;
+	left: 690px;
 }
 
 #u753
@@ -1589,30 +1560,32 @@ html
 	z-index: 13;
 	width: 60px;
 	margin-right: -10000px;
-	margin-top: 46px;
+	margin-top: 8px;
 	left: 50px;
 }
 
-#u911
+#u8994
 {
-	z-index: 173;
-	width: 130px;
-	height: 128px;
+	z-index: 248;
+	width: 158px;
+	height: 89px;
 	position: relative;
 	margin-right: -10000px;
-	left: 848px;
+	margin-top: 1px;
+	left: 643px;
 }
 
-#u6561
+#u8995
 {
-	z-index: 174;
-	width: 130px;
-	height: 128px;
+	z-index: 249;
+	width: 180px;
+	height: 89px;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 1px;
 }
 
-.ie #u911,.ie #u6561
+.ie #u6561,.ie #u8994,.ie #u8995
 {
 	background-color: #FFFFFF;
 	opacity: 0.01;
