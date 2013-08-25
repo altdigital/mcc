@@ -205,10 +205,10 @@ a.nontext /* used to override default properties of 'a' tag */
 {
 	color: #FFAA28;
 	font-family: ubuntu, sans-serif;
-	font-size: 25px;
+	font-size: 30px;
 	font-weight: 700;
 	line-height: 1.22;
-	text-align: left;
+	text-align: center;
 	padding: 22px 0px 0px;
 }
 

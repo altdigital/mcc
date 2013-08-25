@@ -1,42 +1,42 @@
 <manifest alg="2" build="704" opt="false" iceEnabled="true">
   <folder name="css">
-    <file name="site_global.css" crc="3955108068"/>
-    <file name="master_amarilla.css" crc="4159222224" ref="index:comprar"/>
-    <file name="master_master.css" crc="3796771304" ref="inicio:5:info:7:2:biblio:1:4"/>
-    <file name="master_master_-alt.css" crc="340706210" ref="6:3"/>
-    <file name="inicio.css" crc="12481245" ref="inicio"/>
-    <file name="iefonts_inicio.css" crc="328295234" ref="inicio"/>
-    <file name="5.css" crc="4143664536" ref="5"/>
-    <file name="iefonts_5.css" crc="4152402619" ref="5"/>
-    <file name="index.css" crc="3770552402" ref="index"/>
-    <file name="6.css" crc="421043558" ref="6"/>
-    <file name="iefonts_6.css" crc="185566253" ref="6"/>
-    <file name="info.css" crc="4199953068" ref="info"/>
-    <file name="iefonts_info.css" crc="276901039" ref="info"/>
-    <file name="7.css" crc="4288034524" ref="7"/>
-    <file name="iefonts_7.css" crc="4007467838" ref="7"/>
-    <file name="3.css" crc="4199445014" ref="3"/>
+    <file name="site_global.css" crc="323099947"/>
+    <file name="master_master_-alt.css" crc="340706210" ref="3:6"/>
+    <file name="master_amarilla.css" crc="4159222224" ref="comprar:index"/>
+    <file name="master_master.css" crc="3796771304" ref="biblio:info:4:1:5:inicio:7:2"/>
+    <file name="comprar.css" crc="3951610094" ref="comprar"/>
+    <file name="biblio.css" crc="4196621713" ref="biblio"/>
+    <file name="3.css" crc="289718607" ref="3"/>
     <file name="iefonts_3.css" crc="185566253" ref="3"/>
-    <file name="2.css" crc="4293158774" ref="2"/>
-    <file name="iefonts_2.css" crc="3858582829" ref="2"/>
-    <file name="biblio.css" crc="196662002" ref="biblio"/>
-    <file name="1.css" crc="3892367764" ref="1"/>
-    <file name="iefonts_1.css" crc="64762700" ref="1"/>
-    <file name="4.css" crc="103337364" ref="4"/>
+    <file name="index.css" crc="4214904356" ref="index"/>
+    <file name="info.css" crc="472965400" ref="info"/>
+    <file name="iefonts_info.css" crc="276901039" ref="info"/>
+    <file name="4.css" crc="3930032842" ref="4"/>
     <file name="iefonts_4.css" crc="185566253" ref="4"/>
-    <file name="comprar.css" crc="3893698163" ref="comprar"/>
+    <file name="1.css" crc="44736901" ref="1"/>
+    <file name="iefonts_1.css" crc="64762700" ref="1"/>
+    <file name="5.css" crc="4088163515" ref="5"/>
+    <file name="iefonts_5.css" crc="260641708" ref="5"/>
+    <file name="inicio.css" crc="230235192" ref="inicio"/>
+    <file name="iefonts_inicio.css" crc="328295234" ref="inicio"/>
+    <file name="6.css" crc="263718454" ref="6"/>
+    <file name="iefonts_6.css" crc="185566253" ref="6"/>
+    <file name="7.css" crc="479342361" ref="7"/>
+    <file name="iefonts_7.css" crc="3988304117" ref="7"/>
+    <file name="2.css" crc="281834759" ref="2"/>
+    <file name="iefonts_2.css" crc="3807568592" ref="2"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:1:2:3:info:inicio:4:5:6:7:biblio:comprar"/>
-    <file name="museutils.js" crc="4210811981" ref="index:1:2:3:info:inicio:4:5:6:7:biblio:comprar"/>
-    <file name="jquery.scrolleffects.js" crc="3895911286" ref="index:1:2:3:info:inicio:4:5:6:7:biblio:comprar"/>
-    <file name="jquery.watch.js" crc="4199601726" ref="index:1:2:3:info:inicio:4:5:6:7:biblio:comprar"/>
-    <file name="pie.js" crc="4147615982" ref="1:2:3:info:inicio:4:5:6:7:biblio"/>
-    <file name="webpro.js" crc="4369767" ref="1:2:3:inicio:4:5:6:7:comprar"/>
-    <file name="musewpslideshow.js" crc="83045620" ref="1:2:3:inicio:4:5:6:7:comprar"/>
-    <file name="jquery.museoverlay.js" crc="3925244142" ref="1:2:3:inicio:4:5:6:7:comprar"/>
-    <file name="touchswipe.js" crc="261777990" ref="1:2:3:inicio:4:5:6:7:comprar"/>
-    <file name="musewpdisclosure.js" crc="250538392" ref="inicio"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:1:2:3:info:inicio:4:5:6:7:biblio:comprar"/>
+    <file name="museutils.js" crc="3992981318" ref="index:1:2:3:info:inicio:4:5:6:7:biblio:comprar"/>
+    <file name="jquery.scrolleffects.js" crc="4278609653" ref="index:1:2:3:info:inicio:4:5:6:7:biblio:comprar"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:1:2:3:info:inicio:4:5:6:7:biblio:comprar"/>
+    <file name="pie.js" crc="3827607177" ref="1:2:3:info:inicio:4:5:6:7:biblio"/>
+    <file name="webpro.js" crc="197321703" ref="1:2:3:inicio:4:5:6:7:comprar"/>
+    <file name="musewpslideshow.js" crc="4283859919" ref="1:2:3:inicio:4:5:6:7:comprar"/>
+    <file name="jquery.museoverlay.js" crc="3836522771" ref="1:2:3:inicio:4:5:6:7:comprar"/>
+    <file name="touchswipe.js" crc="4156838003" ref="1:2:3:inicio:4:5:6:7:comprar"/>
+    <file name="musewpdisclosure.js" crc="4285748861" ref="inicio"/>
   </folder>
   <folder name="images">
     <file name="0mosaicoazul.png" crc="4120102388" ref="index:1:2:3:info:inicio:4:5:6:7:biblio:comprar"/>
@@ -45,30 +45,31 @@
     <file name="scroll_azul.png" crc="4147215782" ref="index:info"/>
     <file name="barra3.png" crc="166270088" ref="index:1:2:3:5:6"/>
     <file name="9flechaamarillaizq.png" crc="4191494947" ref="index:1:2:3:info:inicio:4:5:6:7:biblio"/>
+    <file name="scroll_amarillo.png" crc="13506331" ref="1:inicio:comprar"/>
     <file name="portada-c10036.png" crc="40211725" ref="1"/>
-    <file name="u738-6.png" crc="167912168" ref="1"/>
-    <file name="barra_temas_c.png" crc="3842323640" ref="1:2:3:4:5:6:7:biblio"/>
+    <file name="u738-6.png" crc="299330051" ref="1"/>
+    <file name="barra_temas_c.png" crc="497879172" ref="1:2:3:4:5:6:7:biblio"/>
     <file name="hilo_amarillo.png" crc="4075588512" ref="1:2:3:info:inicio:4:5:6:7:biblio:comprar"/>
     <file name="0tit11.png" crc="325063678" ref="1"/>
     <file name="s6.png" crc="38887393" ref="1"/>
     <file name="1barra1.png" crc="92346915" ref="1"/>
+    <file name="hilo_azul.png" crc="312888402" ref="1:3:info:inicio:4:5:6:7"/>
     <file name="2miedad.png" crc="478857895" ref="1"/>
     <file name="fondo0.png" crc="152154389" ref="1:2:3:4:5:6:7"/>
-    <file name="hilo_azul.png" crc="312888402" ref="1:3:info:inicio:4:5:6:7"/>
     <file name="00.png" crc="3916298165" ref="1:2:3:4:5:6:7"/>
     <file name="blank.gif" crc="4208392903" ref="1:2:3:inicio:4:5:6:7:comprar"/>
     <file name="2escribetunombre.png" crc="3807704745" ref="1"/>
     <file name="loading.gif" crc="3815509949" ref="1:2:3:inicio:4:5:6:7:comprar"/>
     <file name="icono2.png" crc="135025315" ref="1:2:3:info:5:6:7"/>
-    <file name="3c1-ilu4-u1421.jpg" crc="452844147" ref="1"/>
+    <file name="3c1-ilu4-u1421.jpg" crc="4071433372" ref="1"/>
     <file name="pestana2.png" crc="188932322" ref="1"/>
     <file name="pestana1.png" crc="3899585598" ref="1"/>
     <file name="cabezabase.png" crc="4060305952" ref="1:2"/>
     <file name="base1.png" crc="4233394258" ref="1"/>
-    <file name="estrella-5.png" crc="3880183718" ref="1"/>
+    <file name="estrella-5.png" crc="401414637" ref="1"/>
     <file name="2circulo.png" crc="499580625" ref="1:info"/>
     <file name="pedro.png" crc="4279082233" ref="1"/>
-    <file name="4libreta.png" crc="237544085" ref="1"/>
+    <file name="4libreta.png" crc="3885685593" ref="1"/>
     <file name="5escribetunombre.png" crc="3954402444" ref="1"/>
     <file name="5micuerpo.png" crc="479917868" ref="1"/>
     <file name="6ovulo.png" crc="4000792083" ref="1"/>
@@ -79,65 +80,64 @@
     <file name="7esperma.png" crc="170722992" ref="1"/>
     <file name="7ovulo.png" crc="38348466" ref="1"/>
     <file name="7yo.png" crc="535269807" ref="1"/>
-    <file name="u4237-6.png" crc="30317449" ref="1:2:info:inicio:4:5:7:biblio"/>
-    <file name="u8225-6.png" crc="167912168" ref="2"/>
-    <file name="u8234-grad.png" crc="420327040" ref="2:3:4:5:6:7:biblio"/>
+    <file name="u4237-6.png" crc="257778392" ref="1:2:info:inicio:4:5:7:biblio"/>
+    <file name="u791-6.png" crc="299330051" ref="2"/>
+    <file name="u824-grad.png" crc="420327040" ref="2:3:4:5:6:7:biblio"/>
     <file name="0tit12.png" crc="484998129" ref="2"/>
-    <file name="barra4.png" crc="261096791" ref="2:info:5"/>
-    <file name="barra5.png" crc="105957225" ref="2"/>
-    <file name="1ilu6-u6900.png" crc="4253588919" ref="2"/>
-    <file name="2debo.png" crc="14168297" ref="2"/>
-    <file name="2debo2.png" crc="4019724526" ref="2"/>
+    <file name="1ilu6-u2080.png" crc="288708651" ref="2"/>
     <file name="1sol.png" crc="459661770" ref="2"/>
     <file name="2luna.png" crc="521979119" ref="2"/>
+    <file name="barra4.png" crc="261096791" ref="2:3:info:5"/>
+    <file name="2debo.png" crc="14168297" ref="2"/>
+    <file name="2debo2.png" crc="4019724526" ref="2"/>
+    <file name="barra5.png" crc="105957225" ref="2"/>
     <file name="5luna.png" crc="4253448664" ref="2"/>
     <file name="3sol.png" crc="505929542" ref="2"/>
     <file name="icono1.png" crc="4184874425" ref="2:info:7"/>
     <file name="4etiquta.png" crc="188932322" ref="2"/>
     <file name="4etiquta-2.png" crc="68197908" ref="2"/>
-    <file name="u8245-6.png" crc="167912168" ref="3"/>
+    <file name="u852-6.png" crc="299330051" ref="3"/>
     <file name="tit13.png" crc="59496558" ref="3"/>
     <file name="1estrella.png" crc="41876183" ref="3"/>
-    <file name="3bola-u7246.png" crc="4230421597" ref="3"/>
+    <file name="3bola-u2544.png" crc="4230421597" ref="3"/>
     <file name="2bola.png" crc="4139079663" ref="3"/>
-    <file name="u6536-6.png" crc="30317449" ref="3:6"/>
-    <file name="logo.jpg" crc="4110563348" ref="3:6:comprar"/>
-    <file name="u403-4.png" crc="4250433173" ref="info"/>
-    <file name="u404-4.png" crc="501573206" ref="info"/>
-    <file name="u395-4.png" crc="58124517" ref="info"/>
+    <file name="u6536-6.png" crc="257778392" ref="3:6"/>
+    <file name="logo92x64.jpg" crc="4015202340" ref="3"/>
+    <file name="u403-4.png" crc="160745104" ref="info"/>
+    <file name="u404-4.png" crc="40571371" ref="info"/>
+    <file name="u395-4.png" crc="157925815" ref="info"/>
     <file name="coleccion2.png" crc="359570049" ref="info"/>
-    <file name="logo-u6151.png" crc="26325580" ref="info"/>
-    <file name="u420-4.png" crc="257166553" ref="info"/>
-    <file name="u421-4.png" crc="68091251" ref="info"/>
-    <file name="u424-4.png" crc="4261662639" ref="info"/>
+    <file name="logo-u6151.png" crc="3955850735" ref="info"/>
+    <file name="u420-4.png" crc="3965253239" ref="info"/>
+    <file name="u421-4.png" crc="4084382488" ref="info"/>
     <file name="altdigital.png" crc="4290983020" ref="info"/>
+    <file name="u424-4.png" crc="4243770747" ref="info"/>
     <file name="guia_0000_objeto-inteligente-vectorial.png" crc="4072830615" ref="info"/>
     <file name="barra.png" crc="492653816" ref="info"/>
     <file name="guia_0001_objeto-inteligente-vectorial.png" crc="4125783693" ref="info"/>
     <file name="flechita.png" crc="169480732" ref="info"/>
-    <file name="5paseder.png" crc="513561927" ref="info:inicio:7"/>
+    <file name="5paseder.png" crc="3950664334" ref="info:inicio:7"/>
     <file name="flechita_b.png" crc="4256857970" ref="info"/>
-    <file name="u453-4.png" crc="4224786270" ref="inicio"/>
-    <file name="u452-4.png" crc="3803566630" ref="inicio"/>
-    <file name="u6122-4.png" crc="158644005" ref="inicio"/>
-    <file name="u454-4.png" crc="508301483" ref="inicio"/>
-    <file name="u462-4.png" crc="333845480" ref="inicio"/>
-    <file name="u473-4.png" crc="4002546898" ref="inicio"/>
-    <file name="u475-4.png" crc="3770960752" ref="inicio"/>
-    <file name="u471-4.png" crc="456871041" ref="inicio"/>
+    <file name="u453-4.png" crc="160745104" ref="inicio"/>
+    <file name="u452-4.png" crc="157925815" ref="inicio"/>
+    <file name="u6122-4.png" crc="40571371" ref="inicio"/>
+    <file name="u454-4.png" crc="3792955341" ref="inicio"/>
+    <file name="u462-4.png" crc="514030721" ref="inicio"/>
+    <file name="u471-4.png" crc="247146758" ref="inicio"/>
+    <file name="u473-4.png" crc="182739225" ref="inicio"/>
+    <file name="u475-4.png" crc="241713935" ref="inicio"/>
     <file name="c104indice_v.png" crc="494894429" ref="inicio"/>
-    <file name="imagen-u565.png" crc="3947068724" ref="inicio"/>
-    <file name="u570-4.png" crc="3818700337" ref="inicio"/>
-    <file name="u575-4.png" crc="4151474293" ref="inicio"/>
-    <file name="scroll_amarillo.png" crc="13506331" ref="inicio:comprar"/>
-    <file name="u586-4.png" crc="324746565" ref="inicio"/>
+    <file name="imagen.png" crc="4028586655" ref="inicio"/>
+    <file name="u570-4.png" crc="4111779747" ref="inicio"/>
+    <file name="u575-4.png" crc="44213502" ref="inicio"/>
+    <file name="u586-4.png" crc="17976329" ref="inicio"/>
     <file name="personajes_0000_sigel.png" crc="3768186647" ref="inicio"/>
-    <file name="s4.png" crc="4160988491" ref="inicio"/>
-    <file name="personajes_0001_quilla.png" crc="4112506141" ref="inicio"/>
+    <file name="s4.png" crc="3996177007" ref="inicio"/>
+    <file name="personajes_0001_quilla.png" crc="137667143" ref="inicio"/>
     <file name="luna-5.png" crc="3916554265" ref="inicio"/>
-    <file name="personajes_0002_alde.png" crc="3865943467" ref="inicio"/>
+    <file name="personajes_0002_alde.png" crc="238647009" ref="inicio"/>
     <file name="estrella.png" crc="3792757309" ref="inicio"/>
-    <file name="u1281-4.png" crc="4102109446" ref="inicio"/>
+    <file name="u1281-4.png" crc="347316476" ref="inicio"/>
     <file name="objetivos1.png" crc="3873137060" ref="inicio"/>
     <file name="objetivos2.png" crc="112507335" ref="inicio"/>
     <file name="objetivos3.png" crc="255994784" ref="inicio"/>
@@ -157,14 +157,14 @@
     <file name="ima10.png" crc="427801337" ref="inicio"/>
     <file name="5paseizq.png" crc="3895166255" ref="inicio:7"/>
     <file name="objetivos.png" crc="416235340" ref="inicio"/>
-    <file name="u8259-6.png" crc="167912168" ref="4"/>
+    <file name="u871-6.png" crc="299330051" ref="4"/>
     <file name="tit14.png" crc="236164741" ref="4"/>
-    <file name="1esperma.png" crc="3882479439" ref="4"/>
+    <file name="1esperma.png" crc="4048908598" ref="4"/>
     <file name="2cromo.png" crc="70945580" ref="4"/>
     <file name="2cromo2.png" crc="346565568" ref="4"/>
     <file name="2cromo3.png" crc="3865928241" ref="4"/>
     <file name="3sex.png" crc="78464274" ref="4"/>
-    <file name="u8273-6.png" crc="167912168" ref="5"/>
+    <file name="u3821-6.png" crc="299330051" ref="5"/>
     <file name="tit15.png" crc="373127601" ref="5"/>
     <file name="1cuadro.png" crc="254443249" ref="5"/>
     <file name="2reloj.png" crc="3826356513" ref="5"/>
@@ -177,20 +177,20 @@
     <file name="6cuadro.png" crc="163225461" ref="5"/>
     <file name="7huella.png" crc="3958412548" ref="5"/>
     <file name="9circulo.png" crc="4144369541" ref="5"/>
-    <file name="8cedula.png" crc="135624131" ref="5"/>
-    <file name="u8128-6.png" crc="167912168" ref="6"/>
+    <file name="8cedula.png" crc="397345505" ref="5"/>
+    <file name="u901-6.png" crc="299330051" ref="6"/>
     <file name="tit16.png" crc="394816197" ref="6"/>
     <file name="1cuadro2.png" crc="4007646335" ref="6"/>
-    <file name="2circulo-u7977.png" crc="4208680736" ref="6"/>
+    <file name="2circulo-u4375.png" crc="4208680736" ref="6"/>
     <file name="3cuadro.png" crc="4158339525" ref="6"/>
     <file name="3circulo.png" crc="63389554" ref="6"/>
-    <file name="4gente.png" crc="64303433" ref="6"/>
+    <file name="4gente.png" crc="3786180235" ref="6"/>
     <file name="5a.png" crc="123615338" ref="6"/>
     <file name="5b.png" crc="3855748527" ref="6"/>
     <file name="5c.png" crc="4257996170" ref="6"/>
     <file name="5d.png" crc="54851746" ref="6"/>
     <file name="5e.png" crc="3896416199" ref="6"/>
-    <file name="u8284-6.png" crc="167912168" ref="7"/>
+    <file name="u955-6.png" crc="299330051" ref="7"/>
     <file name="tit17.png" crc="88653813" ref="7"/>
     <file name="s7.png" crc="408195786" ref="7"/>
     <file name="6o.png" crc="4072013867" ref="7"/>
@@ -208,16 +208,16 @@
     <file name="6e.png" crc="4039109558" ref="7"/>
     <file name="6a.png" crc="464431509" ref="7"/>
     <file name="6b.png" crc="3942181487" ref="7"/>
+    <file name="1cuadro3.png" crc="4142205655" ref="7"/>
     <file name="1flor1.png" crc="404021246" ref="7"/>
     <file name="1flor2.png" crc="4098983959" ref="7"/>
     <file name="1flor3.png" crc="3799353810" ref="7"/>
     <file name="1flor4.png" crc="3893625751" ref="7"/>
     <file name="1flor5.png" crc="4190829660" ref="7"/>
-    <file name="1cuadro3.png" crc="4142205655" ref="7"/>
+    <file name="2escribir-4.png" crc="309963462" ref="7"/>
     <file name="2escribir-2.png" crc="4012424059" ref="7"/>
     <file name="2escribircuadro1.png" crc="3863417115" ref="7"/>
     <file name="2escribir-3.png" crc="4080581283" ref="7"/>
-    <file name="2escribir-4.png" crc="309963462" ref="7"/>
     <file name="2escribir.png" crc="81324719" ref="7"/>
     <file name="7bio1.png" crc="4264527261" ref="7"/>
     <file name="7bio2.png" crc="130879610" ref="7"/>
@@ -231,19 +231,19 @@
     <file name="5orientacion3.png" crc="3864624522" ref="7"/>
     <file name="f1.png" crc="210087858" ref="7"/>
     <file name="f2.png" crc="3903167420" ref="7"/>
-    <file name="u8298-6.png" crc="167912168" ref="biblio"/>
+    <file name="u969-6.png" crc="299330051" ref="biblio"/>
     <file name="bibliografia.png" crc="4208216567" ref="biblio"/>
     <file name="serie2_v.png" crc="333060070" ref="comprar"/>
     <file name="bolita.png" crc="184420606" ref="comprar"/>
-    <file name="u5972-4.png" crc="4237489006" ref="comprar"/>
-    <file name="u5985-4.png" crc="177328813" ref="comprar"/>
-    <file name="u5990-4.png" crc="490662387" ref="comprar"/>
-    <file name="u5995-4.png" crc="4063122319" ref="comprar"/>
-    <file name="u6000-4.png" crc="467812572" ref="comprar"/>
-    <file name="u6005-4.png" crc="331895393" ref="comprar"/>
-    <file name="u6010-4.png" crc="456882991" ref="comprar"/>
-    <file name="u6015-4.png" crc="3908373988" ref="comprar"/>
-    <file name="u6020-4.png" crc="443315559" ref="comprar"/>
+    <file name="u5972-4.png" crc="50960222" ref="comprar"/>
+    <file name="u5985-4.png" crc="444838359" ref="comprar"/>
+    <file name="u5990-4.png" crc="3866801821" ref="comprar"/>
+    <file name="u5995-4.png" crc="418414284" ref="comprar"/>
+    <file name="u6000-4.png" crc="4023690506" ref="comprar"/>
+    <file name="u6005-4.png" crc="163541286" ref="comprar"/>
+    <file name="u6010-4.png" crc="77808410" ref="comprar"/>
+    <file name="u6015-4.png" crc="286654100" ref="comprar"/>
+    <file name="u6020-4.png" crc="153733905" ref="comprar"/>
     <file name="volver.png" crc="343218307" ref="comprar"/>
     <file name="serie3_v.png" crc="4076881284" ref="comprar"/>
     <file name="serie4_v.png" crc="4226682466" ref="comprar"/>
@@ -252,21 +252,22 @@
     <file name="serie7_v.png" crc="4096626221" ref="comprar"/>
     <file name="serie8_v.png" crc="447586898" ref="comprar"/>
     <file name="serie9_v.png" crc="263017177" ref="comprar"/>
+    <file name="logo.png" crc="4163430580" ref="comprar"/>
     <file name="1a.png" crc="481975497" ref="comprar"/>
     <file name="1b.png" crc="195593631" ref="comprar"/>
     <file name="1c.png" crc="382071226" ref="comprar"/>
     <file name="1d.png" crc="171832831" ref="comprar"/>
   </folder>
-  <file name="index.html" crc="3865398379" mt="1376320072494"/>
-  <file name="1.html" crc="3977913678" mt="1376339135116"/>
-  <file name="2.html" crc="3850976565" mt="1376334968992"/>
-  <file name="3.html" crc="43976596" mt="1376333677972"/>
-  <file name="info.html" crc="242227842" mt="1376338595097"/>
-  <file name="inicio.html" crc="94176645" mt="1376338911093"/>
-  <file name="4.html" crc="69245690" mt="1376332197170"/>
-  <file name="5.html" crc="3782606560" mt="1376332196139"/>
-  <file name="6.html" crc="3936367795" mt="1376338961640"/>
-  <file name="7.html" crc="3804017650" mt="1376335101674"/>
-  <file name="biblio.html" crc="3787881688" mt="1376329302221"/>
-  <file name="comprar.html" crc="3823842428" mt="1376339002405"/>
+  <file name="index.html" crc="359534628" mt="1376167475352"/>
+  <file name="1.html" crc="36373930" mt="1376167496002"/>
+  <file name="2.html" crc="4087554503" mt="1376167496003"/>
+  <file name="3.html" crc="3925631282" mt="1376167512497"/>
+  <file name="info.html" crc="67045609" mt="1376167496005"/>
+  <file name="inicio.html" crc="113738495" mt="1376167496006"/>
+  <file name="4.html" crc="449742600" mt="1376167496007"/>
+  <file name="5.html" crc="3965649310" mt="1376167496008"/>
+  <file name="6.html" crc="22967900" mt="1376167512499"/>
+  <file name="7.html" crc="34412457" mt="1376167496010"/>
+  <file name="biblio.html" crc="3952586987" mt="1376167496011"/>
+  <file name="comprar.html" crc="454834163" mt="1376167475354"/>
 </manifest>
