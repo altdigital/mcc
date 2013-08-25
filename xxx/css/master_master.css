@@ -1,0 +1,46 @@
+#u6842
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u722
+{
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	background: #14144A url("../images/0mosaicoazul.png") repeat right top;
+}
+
+#u730
+{
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	background: transparent url("../images/hilo_amarillo.png") repeat-x left top;
+}
+
+#u4237-6
+{
+	display: block;
+	vertical-align: top;
+	position: relative;
+}
+
+#u751
+{
+	position: relative;
+}
+
+#u753
+{
+	-webkit-transform: rotate(180deg);
+	-moz-transform: rotate(180deg);
+	-ms-transform: rotate(180deg);
+	-o-transform: rotate(180deg);
+	transform: rotate(180deg);
+	position: relative;
+}
+

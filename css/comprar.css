@@ -2,11 +2,45 @@ html
 {
 	background: #7F7F7F url("../images/0mosaicoazul.png") repeat left top;
 }
+@media only screen
+and (max-width: 320px) 
+{
+#page{
+	zoom: 0.4; -moz-transform: scale(0.4); -moz-transform-origin: 0 0;
+}
+}
 
+
+@media only screen
+and (min-width: 321px) 
+and (max-width: 480px) 
+{
+#page{
+	zoom: 0.6; -moz-transform: scale(0.6); -moz-transform-origin: 0 0;
+}
+}
+
+@media only screen
+and (min-width: 481px) 
+and (max-width: 600px) 
+{
+#page{
+	zoom: 0.75; -moz-transform: scale(0.75); -moz-transform-origin: 0 0;
+}
+}
+
+@media only screen
+and (min-width: 601px) 
+and (max-width: 768px) 
+{
+#page{
+	zoom: 0.96; -moz-transform: scale(0.96); -moz-transform-origin: 0 0;
+}
+}
 #page
 {
 	z-index: 1;
-	width: 978px;
+	width: 800px;
 	min-height: 1200px;
 	border-style: none;
 	border-color: transparent;
@@ -15,28 +49,12 @@ html
 	background: #FFFFFF url("../images/0mosaicoamarillo.png") repeat left top;
 }
 
-#pu5661
-{
-	width: 0.01px;
-	margin-left: 50px;
-	position: relative;
-}
-
 #u5661
 {
 	z-index: 2;
 	width: 768px;
 	position: relative;
 	margin-right: -10000px;
-	left: 50px;
-}
-
-#compra2
-{
-	position: relative;
-	width: 22px;
-	margin-right: -10000px;
-	left: 50px;
 }
 
 #u6022
@@ -44,9 +62,9 @@ html
 	z-index: 26;
 	width: 83px;
 	position: fixed;
-	top: 128px;
+	top: 90px;
 	left: 50%;
-	margin-left: 367px;
+	margin-left: 267px;
 }
 
 #u5981
@@ -69,7 +87,7 @@ html
 {
 	z-index: 30;
 	position: relative;
-	width: 17px;
+	width: 15px;
 	margin-right: -10000px;
 	margin-top: 21px;
 	left: 33px;
@@ -81,7 +99,7 @@ html
 	width: 83px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 74px;
+	margin-top: 75px;
 }
 
 #u5983
@@ -96,9 +114,9 @@ html
 {
 	z-index: 37;
 	position: relative;
-	width: 26px;
+	width: 24px;
 	margin-right: -10000px;
-	margin-top: 21px;
+	margin-top: 20px;
 	left: 28px;
 }
 
@@ -108,7 +126,7 @@ html
 	width: 83px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 149px;
+	margin-top: 150px;
 }
 
 #u5988
@@ -123,10 +141,10 @@ html
 {
 	z-index: 44;
 	position: relative;
-	width: 27px;
+	width: 21px;
 	margin-right: -10000px;
-	margin-top: 21px;
-	left: 27px;
+	margin-top: 20px;
+	left: 29px;
 }
 
 #u5992
@@ -150,10 +168,10 @@ html
 {
 	z-index: 51;
 	position: relative;
-	width: 31px;
+	width: 25px;
 	margin-right: -10000px;
 	margin-top: 21px;
-	left: 26px;
+	left: 28px;
 }
 
 #u5997
@@ -177,10 +195,10 @@ html
 {
 	z-index: 58;
 	position: relative;
-	width: 28px;
+	width: 21px;
 	margin-right: -10000px;
 	margin-top: 21px;
-	left: 27px;
+	left: 30px;
 }
 
 #u6002
@@ -204,10 +222,10 @@ html
 {
 	z-index: 65;
 	position: relative;
-	width: 29px;
+	width: 23px;
 	margin-right: -10000px;
 	margin-top: 21px;
-	left: 27px;
+	left: 29px;
 }
 
 #u6007
@@ -216,7 +234,7 @@ html
 	width: 83px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 448px;
+	margin-top: 449px;
 }
 
 #u6008
@@ -231,7 +249,7 @@ html
 {
 	z-index: 72;
 	position: relative;
-	width: 26px;
+	width: 23px;
 	margin-right: -10000px;
 	margin-top: 21px;
 	left: 29px;
@@ -243,7 +261,7 @@ html
 	width: 83px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 523px;
+	margin-top: 524px;
 }
 
 #u6013
@@ -258,10 +276,10 @@ html
 {
 	z-index: 79;
 	position: relative;
-	width: 27px;
+	width: 21px;
 	margin-right: -10000px;
-	margin-top: 21px;
-	left: 28px;
+	margin-top: 20px;
+	left: 30px;
 }
 
 #u6017
@@ -291,10 +309,10 @@ html
 {
 	z-index: 86;
 	position: relative;
-	width: 29px;
+	width: 23px;
 	margin-right: -10000px;
 	margin-top: 21px;
-	left: 27px;
+	left: 29px;
 }
 
 #u5972-4_img,#u5985-4_img,#u5990-4_img,#u5995-4_img,#u6000-4_img,#u6005-4_img,#u6010-4_img,#u6015-4_img,#u6020-4_img
@@ -310,7 +328,7 @@ html
 	position: fixed;
 	top: 122px;
 	left: 50%;
-	margin-left: -410px;
+	margin-left: -350px;
 }
 
 #u6023
@@ -320,11 +338,6 @@ html
 	position: relative;
 	margin-right: -10000px;
 	left: 1px;
-}
-
-#u6023_img
-{
-	padding-right: 1px;
 }
 
 #u6056-4
@@ -345,8 +358,8 @@ html
 	height: 145px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 756px;
-	left: 161px;
+	margin-top: 815px;
+	left: 22px;
 }
 
 #u6848
@@ -355,6 +368,7 @@ html
 	width: 200px;
 	margin-right: -10000px;
 	margin-top: 90px;
+	left: 34px;
 }
 
 #u5666
@@ -372,8 +386,8 @@ html
 	height: 145px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 756px;
-	left: 133px;
+	margin-top: 791px;
+	left: 117px;
 }
 
 #u5671
@@ -391,8 +405,8 @@ html
 	height: 145px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 766px;
-	left: 116px;
+	margin-top: 801px;
+	left: 100px;
 }
 
 #u5700
@@ -410,8 +424,8 @@ html
 	height: 145px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 766px;
-	left: 116px;
+	margin-top: 801px;
+	left: 100px;
 }
 
 #u5705
@@ -429,8 +443,8 @@ html
 	height: 145px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 761px;
-	left: 104px;
+	margin-top: 799px;
+	left: 106px;
 }
 
 #u5710
@@ -448,8 +462,8 @@ html
 	height: 145px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 758px;
-	left: 116px;
+	margin-top: 793px;
+	left: 100px;
 }
 
 #u5715
@@ -467,14 +481,14 @@ html
 	height: 145px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 764px;
-	left: 116px;
+	margin-top: 799px;
+	left: 100px;
 }
 
-#pu5666,#pu5671,#pu5700,#pu5705,#pu5710,#pu5715,#pu5720
+#pu5661,#pu5666,#pu5671,#pu5700,#pu5705,#pu5710,#pu5715,#pu5720
 {
 	width: 0.01px;
-	margin-left: 100px;
+	margin-left: 16px;
 	position: relative;
 }
 
@@ -486,11 +500,12 @@ html
 	margin-right: -10000px;
 }
 
-#compra3,#compra4,#compra5,#compra6,#compra7,#compra8,#compra9
+#compra2,#compra3,#compra4,#compra5,#compra6,#compra7,#compra8,#compra9
 {
 	position: relative;
 	width: 22px;
 	margin-right: -10000px;
+	left: 84px;
 }
 
 #u6682
@@ -500,8 +515,8 @@ html
 	height: 145px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 768px;
-	left: 124px;
+	margin-top: 803px;
+	left: 108px;
 }
 
 .ie #u6563,.ie #u6676,.ie #u6677,.ie #u6678,.ie #u6679,.ie #u6680,.ie #u6681,.ie #u6682
@@ -515,13 +530,15 @@ html
 #pu6080
 {
 	width: 0.01px;
+	top: -7px;
+	margin-bottom: -7px;
 	position: relative;
 }
 
 #u6080
 {
 	z-index: 97;
-	width: 978px;
+	width: 800px;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -529,11 +546,11 @@ html
 #u6058
 {
 	z-index: 98;
-	width: 978px;
+	width: 800px;
 	border-style: none;
 	border-color: transparent;
 	background-color: #FFFFFF;
-	padding-bottom: 918px;
+	padding-bottom: 750px;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -541,23 +558,28 @@ html
 #u6059
 {
 	z-index: 99;
-	width: 376px;
+	width: 308px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 486px;
-	left: 301px;
+	margin-top: 398px;
+	left: 246px;
+}
+
+#u6023_img,#u6059_img
+{
+	padding-right: 1px;
 }
 
 #u6089
 {
 	z-index: 101;
-	width: 978px;
+	width: 800px;
 	height: 10px;
 	border-style: none;
 	border-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 5px;
+	margin-top: 47px;
 	background: transparent url("../images/hilo_amarillo.png") repeat-x left top;
 }
 
@@ -568,8 +590,8 @@ html
 	height: 522px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 859px;
-	left: 141px;
+	margin-top: 901px;
+	left: 52px;
 }
 
 #u6373
@@ -663,16 +685,16 @@ html
 #u6460
 {
 	z-index: 112;
-	width: 108px;
+	width: 88px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 22px;
-	left: 857px;
+	margin-top: 53px;
+	left: 712px;
 }
 
 #u6460_img
 {
-	padding: 16px 43px 12px 30px;
+	padding: 13px 35px 10px 25px;
 }
 
 #alt
@@ -680,8 +702,8 @@ html
 	position: relative;
 	width: 22px;
 	margin-right: -10000px;
-	margin-top: 118px;
-	left: 50px;
+	margin-top: 160px;
+	left: 5px;
 }
 
 #page .verticalspacer

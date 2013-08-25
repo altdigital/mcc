@@ -2,11 +2,45 @@ html
 {
 	background: #7F7F7F url("../images/0mosaicoazul.png") repeat left top;
 }
+@media only screen
+and (max-width: 320px) 
+{
+#page{
+	zoom: 0.4; -moz-transform: scale(0.4); -moz-transform-origin: 0 0;
+}
+}
 
+
+@media only screen
+and (min-width: 321px) 
+and (max-width: 480px) 
+{
+#page{
+	zoom: 0.6; -moz-transform: scale(0.6); -moz-transform-origin: 0 0;
+}
+}
+
+@media only screen
+and (min-width: 481px) 
+and (max-width: 600px) 
+{
+#page{
+	zoom: 0.75; -moz-transform: scale(0.75); -moz-transform-origin: 0 0;
+}
+}
+
+@media only screen
+and (min-width: 601px) 
+and (max-width: 768px) 
+{
+#page{
+	zoom: 0.96; -moz-transform: scale(0.96); -moz-transform-origin: 0 0;
+}
+}
 #page
 {
 	z-index: 1;
-	width: 978px;
+	width: 800px;
 	min-height: 1200px;
 	border-style: none;
 	border-color: transparent;
@@ -18,7 +52,7 @@ html
 #u477
 {
 	z-index: 2;
-	width: 978px;
+	width: 800px;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -30,8 +64,8 @@ html
 	height: 383px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 177px;
-	left: 403px;
+	margin-top: 122px;
+	left: 230px;
 }
 
 .ie #u504
@@ -48,24 +82,24 @@ html
 	width: 66px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 635px;
-	left: 862px;
+	margin-top: 557px;
+	left: 684px;
 }
 
 #u3882
 {
 	z-index: 7;
-	width: 226px;
+	width: 184px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 1464px;
-	left: 752px;
+	margin-top: 1194px;
+	left: 616px;
 }
 
 #u3853
 {
 	z-index: 8;
-	width: 226px;
+	width: 184px;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -73,23 +107,23 @@ html
 #u3853_clip
 {
 	overflow: hidden;
-	width: 226px;
-	height: 152px;
+	width: 184px;
+	height: 124px;
 }
 
 #u3853_img
 {
-	margin-right: -1056px;
+	margin-right: -861px;
 }
 
 #u3874
 {
 	z-index: 10;
-	width: 85px;
+	width: 69px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 26px;
-	left: 63px;
+	margin-top: 21px;
+	left: 51px;
 }
 
 #portada_bajar
