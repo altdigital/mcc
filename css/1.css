@@ -12,10 +12,9 @@ and (max-width: 320px)
 }
 }
 
-
 @media only screen
 and (min-width: 321px) 
-and (max-width: 480px) 
+and (max-width: 482px) 
 {
 #page{
 	zoom: 0.6; -moz-transform: scale(0.6); -moz-transform-origin: 0 0;
@@ -23,8 +22,8 @@ and (max-width: 480px)
 }
 
 @media only screen
-and (min-width: 481px) 
-and (max-width: 600px) 
+and (min-width: 483px) 
+and (max-width: 602px) 
 {
 #page{
 	zoom: 0.75; -moz-transform: scale(0.75); -moz-transform-origin: 0 0;
@@ -32,11 +31,11 @@ and (max-width: 600px)
 }
 
 @media only screen
-and (min-width: 601px) 
-and (max-width: 768px) 
+and (min-width: 603px) 
+and (max-width: 680px) 
 {
 #page{
-	zoom: 0.96; -moz-transform: scale(0.96); -moz-transform-origin: 0 0;
+	zoom: 0.85; -moz-transform: scale(0.85); -moz-transform-origin: 0 0;
 }
 }
 
